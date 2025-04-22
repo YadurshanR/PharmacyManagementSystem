@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\bin\Debug\PharmacyManagement.exe.config
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\bin\Debug\PharmacyManagement.exe
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\bin\Debug\PharmacyManagement.pdb
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Form1.resources
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Properties.Resources.resources
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.exe
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.pdb
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\bin\Debug\Guna.UI2.dll
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\Pharmacy.CF4BD01C.Up2Date
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.Admin.resources
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.AdministratorUC.UC_Dashboard.resources
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.UC_Supplier.UC_Supplier.resources
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.UC_Order.UC_Order.resources
+C:\Users\HP\source\repos\PharmacyManagement\PharmacyManagement\obj\Debug\PharmacyManagement.StockUC.UC_Stock.resources

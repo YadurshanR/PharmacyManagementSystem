@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyManagement", "PharmacyManagement\PharmacyManagement.csproj", "{F3B2CBC1-76E9-4164-92AB-1E23F41C005B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyManagementAPI", "PharmacyManagementAPI\PharmacyManagementAPI.csproj", "{606CD7A4-3D51-4567-B502-049DF0C30A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B2CBC1-76E9-4164-92AB-1E23F41C005B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B2CBC1-76E9-4164-92AB-1E23F41C005B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B2CBC1-76E9-4164-92AB-1E23F41C005B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B2CBC1-76E9-4164-92AB-1E23F41C005B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606CD7A4-3D51-4567-B502-049DF0C30A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606CD7A4-3D51-4567-B502-049DF0C30A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606CD7A4-3D51-4567-B502-049DF0C30A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606CD7A4-3D51-4567-B502-049DF0C30A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
